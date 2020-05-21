@@ -1,1 +1,3 @@
 openvswitch*
+.vagrant
+files
